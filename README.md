@@ -9,7 +9,7 @@ A wearable glove that translates American Sign Language (ASL) hand gestures into
 - 2 MPU6050
 - DFPlayer Mini
 - Speaker
-- 2 Powerbank
+- 2 Powerbanks
 
 ## Goals
 
